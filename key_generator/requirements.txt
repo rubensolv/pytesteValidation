@@ -1,0 +1,11 @@
+cffi==1.17.1
+click==7.1.2
+cryptography==3.3.2
+iniconfig==2.1.0
+key-generator-cli @ file:///home/rubens/pythonProjects/cryptography-cli/key_generator_cli-0.0.1-py3-none-any.whl
+packaging==25.0
+pluggy==1.6.0
+pycparser==2.22
+Pygments==2.19.1
+pytest==8.4.0
+six==1.17.0
