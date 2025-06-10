@@ -26,5 +26,6 @@ jobs:
     - name: Test API KEY
       env:
         AUTH_TOKEN_JAMES_OFICIAL: ${{ secrets.AUTH_TOKEN_JAMES_OFICIAL }}
+        AUTH_TOKEN_JAMES_OFICIAL2: ${{ secrets.AUTH_TOKEN_JAMES_OFICIAL2 }}
       run: |
         python testtoken.py
